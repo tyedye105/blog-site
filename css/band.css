@@ -1,0 +1,9 @@
+.sidebar {
+  float: right;
+  width: 50%;
+  background-color: grey;
+}
+
+p {
+  font-style: italic;
+}

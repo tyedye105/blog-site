@@ -1,0 +1,19 @@
+.important {
+  color: red;
+
+}
+img {
+  float: left;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+
+.column {
+  width: 300px;
+  float: left;
+  
+}
